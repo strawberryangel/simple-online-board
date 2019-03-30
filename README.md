@@ -16,7 +16,7 @@ The entire script looks like:
 
 ```c
 #define TEXTURE_FACE 3
-#include "online-board/online-board-simple.lsl"
+#include "simple-online-board/online-board-simple.lsl"
 ```
 
 ## Use
